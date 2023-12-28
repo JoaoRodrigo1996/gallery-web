@@ -29,3 +29,4 @@ Primeiro faça o clone do projeto e depois siga os comandos abaixo:
 
 - [@RodrigoMesquita](https://www.github.com/JoaoRodrigo1996)
 
+# gallery-web

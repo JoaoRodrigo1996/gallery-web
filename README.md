@@ -28,6 +28,3 @@ Primeiro faça o clone do projeto e depois siga os comandos abaixo:
 ## Autores
 
 - [@RodrigoMesquita](https://www.github.com/JoaoRodrigo1996)
-
-# gallery-web
-# gallery-web
